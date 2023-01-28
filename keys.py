@@ -196,7 +196,7 @@ VK_CODE = {
 
 # Define virtual codes for mouse input
 MB_CODE = {
-    "left": 0x0002,
-    "right": 0x0008,
-    "middle": 0x0020
+    'left': 0x0002,
+    'right': 0x0008,
+    'middle': 0x0020
 }
