@@ -40,7 +40,7 @@ DK_CODE = {
     'num9': 0x49, '9': 0x0a, '(': 0x0a,
     # Calculation keys
     'num/': 0xB5,
-    'num.': 0x53,
+    'numdelete': 0x53,
     'num-': 0x4A,
     'num+': 0x4e,
     'num*': 0x37,
@@ -138,7 +138,7 @@ VK_CODE = {
     'num9': 0x69, '9': 0x39, '(': 0x39,
     # Calculation keys
     'num/': 0x6F,
-    'num.': 0x6E,
+    'numdelete': 0x6E,
     'num-': 0x6D,
     'num+': 0x6B,
     'num*': 0x6A,
